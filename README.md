@@ -64,3 +64,5 @@ python -m pytest -q
 ## Limitations
 
 This tool performs simple text matching and URL-shape checks. It does not contact websites, verify senders, inspect attachments, or use threat-intelligence data. A low score does **not** mean an email is safe, and legitimate email can also trigger warnings. Verify suspicious messages through a trusted, independent channel.
+
+WTC-X42MSYH9
